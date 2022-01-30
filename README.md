@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gvidas1115
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning c#
+- 📫 How to reach me Gvidas1115#8666 on discord
